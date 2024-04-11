@@ -1,0 +1,18 @@
+<svg width="130" height="130" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="132" width="132" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_2" y2="268.249993" x2="360.499989" y1="94.249996" x1="232.499991" stroke-width="10" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_3" y2="226.249994" x2="138.499992" y1="83.249996" x1="125.499993" stroke-width="10" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="196.249995" x2="381.499989" y1="208.249995" x1="196.499992" stroke-width="10" fill="none"/>
+  <path stroke="#ffffff" transform="rotate(45 64.82472991943361,64.86366271972655) " id="svg_18" d="m-16.923614,64.625631l163.496696,0l0,0.476056l-163.496696,0l0,-0.476056z" fill-opacity="null" stroke-width="10" fill="none"/>
+  <path stroke="#ffffff" transform="rotate(-45 65.01962280273438,65.20718383789064) " id="svg_22" d="m-16.325602,65.752767l162.690446,0l0,-1.091161l-162.690446,0l0,1.091161z" fill-opacity="null" stroke-width="10" fill="none"/>
+ </g>
+</svg>
