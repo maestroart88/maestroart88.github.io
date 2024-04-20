@@ -1,0 +1,16 @@
+<svg width="24.000000000000004" height="24.000000000000004" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="26" height="26" id="canvas_background" fill="none"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <g id="SVGRepo_bgCarrier" stroke-width="0"/>
+  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+  <g id="SVGRepo_iconCarrier" stroke="null">
+   <circle cx="11.928775" cy="11.928775" r="11.210827" stroke-width="1.5" id="svg_1" fill="none" stroke="#0070cc"/>
+   <path d="m8.282763,12.938034l2.327635,2.327635l5.819088,-5.819088" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" id="svg_2" stroke="#0070cc" fill="none"/>
+  </g>
+ </g>
+</svg>
